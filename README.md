@@ -26,6 +26,7 @@ This is an application to track ship movement on map.
 - Data is streamed every second to all connected clients at same time
 - Ui does not connect to CoordProvider directly
 - Coordinates are loaded in infinite loop, no need for human intervention
+- Map is loaded with OpenLayers Api
 
 # TODO
 

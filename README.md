@@ -38,6 +38,6 @@ This is an application to track ship movement on map.
 - Boat does not appear on map
 
 # Install
-Clone the repository with "git clone git@github.com:Asanque/BoatTracker.git" command
-Inside CoordProvider, Server and UI folders run the install.bat files
-Inside the same folders run the start.bat files in CoordProvider->Server->UI order
+- Clone the repository with "git clone git@github.com:Asanque/BoatTracker.git" command
+- Inside CoordProvider, Server and UI folders run the install.bat files
+- Inside the same folders run the start.bat files in CoordProvider->Server->UI order
